@@ -1,1 +1,1 @@
-# PowerBi_Dashborad Collage Mock Interviwe
+# PowerBi_Dashborad College Mock Interview
